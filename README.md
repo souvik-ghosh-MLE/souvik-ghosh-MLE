@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik-ghosh-mle&label=Profile%20views&color=0e75b6&style=flat" alt="souvik-ghosh-mle" /> </p>
 
-- 🌱 I’m currently learning **to make Machine Learning models scalable. **
+- 🌱 I’m currently learning **to make Machine Learning models scalable.**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Machine Learning Projects and Development**
 
 - 🤝 I’m looking for help with **building machine learning models from scratch, training and deployment**
 
