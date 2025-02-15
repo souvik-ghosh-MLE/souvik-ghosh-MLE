@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning**
 
-- 💬 Ask me about **Machine Learning, Data Analysis, Cloud Computing and integrations**
+- 💬 Ask me about **Data Science, Machine Learning, Data Analysis, Neural Networks, Cloud Computing and integrations**
 
 - 📫 How to reach me **souviknew9@gmail.com**
 
